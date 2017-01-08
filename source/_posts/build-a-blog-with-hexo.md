@@ -81,5 +81,5 @@ $ hexo new title-of-your-blog
 $ hexo g
 $ hexo d
 ```
-生成的静态文件会自动发布到master分支，之后我们访问：https://sandysong.github.io，就能看到我们刚写的blog了。
+生成的静态文件会自动发布到master分支，之后我们访问：https://sandysong.github.io ，就能看到我们刚写的blog了。
 
