@@ -2,3 +2,9 @@ node_modules
 .deploy_git
 public
 themes
+.DS_Store
+Thumbs.db
+db.json
+*.log
+.deploy*/
+.idea
